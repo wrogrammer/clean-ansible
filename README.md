@@ -26,11 +26,11 @@ The [Ansible](https://github.com/ansible/ansible "Ansible") hasn't functionality
 ### Features
 - find undefined Ansible variables
 
-  `Clean Ansible` is able to find undefined variables declared in Ansible: `tasks`, `playbooks`, and `templates`.
+  `clean-ansible` is able to find undefined variables declared in Ansible: `tasks`, `playbooks`, and `templates`.
 
 - find redundant Ansible variables
 
-  `Clean Ansible` is able to show the repeated Ansible variables based on Ansible variables precedence.
+  `clean-ansible` is able to show the repeated Ansible variables based on Ansible variables precedence.
 
 ------------
 ### Installation
@@ -58,4 +58,4 @@ Just open a Github issue.
 
 ------------
 ### Supported Python Versions
-Clean-Ansible is supported on Python 2.7, 3.4, 3.5, 3.6, 3.7.
+`clean-ansible` is supported on Python 2.7, 3.4, 3.5, 3.6, 3.7.
