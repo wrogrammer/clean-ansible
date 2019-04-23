@@ -20,7 +20,7 @@
 ### Description
 **Clean Ansible** is the tool to detect incorrect variables before the provisioning process with use [Ansible](https://github.com/ansible/ansible "Ansible") automation tool.
 
-The [Ansible](https://github.com/ansible/ansible "Ansible") hasn't functionality to check variables before running deployment.
+The [Ansible](https://github.com/ansible/ansible "Ansible") doesn’t have functionality to check variables before running deployment.
 
 ------------
 ### Features
@@ -58,4 +58,4 @@ Just open a Github issue.
 
 ------------
 ### Supported Python Versions
-`clean-ansible` is supported on Python 2.7, 3.4, 3.5, 3.6, 3.7.
+`clean-ansible` is supported on Python 2.7, 3.4+.
