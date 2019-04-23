@@ -5,10 +5,10 @@
 * [Description](https://github.com/wrogrammer/clean-ansible#Description)
 * [Features](https://github.com/wrogrammer/clean-ansible#Features)
 * [Installation](https://github.com/wrogrammer/clean-ansible#Installation)
-* [Questions / Help?](https://github.com/wrogrammer/clean-ansible#Questions / Help?)
-* [Bug reporting](https://github.com/wrogrammer/clean-ansible#Bug reporting)
+* [Questions / Help?](https://github.com/wrogrammer/clean-ansible#questions--help)
+* [Bug reporting](https://github.com/wrogrammer/clean-ansible#bug-reporting)
 * [Authors](https://github.com/wrogrammer/clean-ansible#Authors)
-* [Supported Python Versions](https://github.com/wrogrammer/clean-ansible#Supported Python Versions)
+* [Supported Python Versions](https://github.com/wrogrammer/clean-ansible#supported-python-versions)
 
 
 ------------
@@ -34,6 +34,7 @@ The [Ansible](https://github.com/ansible/ansible "Ansible") hasn't functionality
 ### Installation
 
 To use `clean-ansible` run:
+
 ```pip install clean-ansible```
 
 ------------
