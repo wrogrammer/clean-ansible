@@ -1,5 +1,6 @@
 ![Clean Ansible Logo](/logos/clean_ansible_logo.png)
 
+------------
 ## Contents
 * [Links](https://github.com/wrogrammer/clean-ansible#Links)
 * [Description](https://github.com/wrogrammer/clean-ansible#Description)
@@ -45,7 +46,6 @@ To use `clean-ansible` run:
 ### Questions / Help?
 
 Feel free to contact me:
-
 `wrogrammer@gmail.com`
  
 ------------
