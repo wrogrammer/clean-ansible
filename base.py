@@ -1,0 +1,14 @@
+#!/usr/bin/python3
+
+import yaml_reader
+
+
+roles_path_from_config_file = yaml_reader.read_ansible_configuration_file()
+general_path_to_all_defaults = yaml_reader.get_ansible_defaults_path(roles_path_from_config_file)
+
+path_to_tasks = yaml_reader.get_ansible_tasks_path(general_path_to_all_defaults)
+path_to_templates = yaml_reader.get_ansible_templates_path(general_path_to_all_defaults)
+
+yaml_reader.get_ansible_files(general_path_to_all_defaults)
+yaml_reader.get_ansible_files(path_to_tasks)
+yaml_reader.get_ansible_files(path_to_templates)
