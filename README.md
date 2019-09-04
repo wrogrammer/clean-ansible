@@ -14,7 +14,7 @@
 
 ------------
 ### Links
-- Website: [wrogrammer.com/clean-ansible](https://wrogrammer.com/ "wrogrammer.com/clean-ansible")
+- Website: [wrogrammer.com/](https://wrogrammer.com/ "wrogrammer.com/")
 
 ------------
 ### Description
@@ -37,7 +37,7 @@ The [Ansible](https://github.com/ansible/ansible "Ansible") doesn’t have funct
 
 To use `clean-ansible` run:
 
-```pip install clean-ansible```
+```pip3 install clean-ansible```
 
 ------------
 ### Examples
@@ -58,4 +58,4 @@ Just open a Github issue.
 
 ------------
 ### Supported Python Versions
-`clean-ansible` is supported on Python 2.7, 3.4+.
+`clean-ansible` is supported on Python 3.4+.
