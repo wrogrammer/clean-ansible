@@ -14,7 +14,7 @@
 
 ------------
 ### Links
-- Website: [wrogrammer.com/](https://wrogrammer.com/ "wrogrammer.com/")
+- Website: [wrogrammer.com/](https://wrogrammer.com "wrogrammer.com")
 
 ------------
 ### Description
@@ -37,7 +37,12 @@ The [Ansible](https://github.com/ansible/ansible "Ansible") doesn’t have funct
 
 To use `clean-ansible` run:
 
-```pip3 install clean-ansible```
+```git clone https://github.com/wrogrammer/clean-ansible
+pip3 install tox
+tox -e dvars -> to find redundant defaults variables
+tox -e gvars -> to find redundant defaults variables
+```
+
 
 ------------
 ### Examples
@@ -47,7 +52,7 @@ To use `clean-ansible` run:
 
 Feel free to contact me:
 `wrogrammer@gmail.com`
- 
+
 ------------
 ### Bug reporting
 Just open a Github issue.
