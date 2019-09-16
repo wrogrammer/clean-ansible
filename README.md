@@ -37,11 +37,16 @@ The [Ansible](https://github.com/ansible/ansible "Ansible") doesn’t have funct
 
 To use `clean-ansible` run:
 
-```git clone https://github.com/wrogrammer/clean-ansible
-pip3 install tox
-tox -e dvars -> to find redundant defaults variables
-tox -e gvars -> to find redundant defaults variables
 ```
+git clone https://github.com/wrogrammer/clean-ansible
+pip3 install tox
+```
+and:
+```tox -e dvars```
+to find redundant defaults variables
+
+```tox -e gvars```
+to find redundant defaults variables
 
 
 ------------
