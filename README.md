@@ -14,7 +14,7 @@
 
 ------------
 ### Links
-- Website: [wrogrammer.com/](https://wrogrammer.com "wrogrammer.com")
+- Website: [wrogrammer.com](https://wrogrammer.com "wrogrammer.com")
 
 ------------
 ### Description
@@ -42,6 +42,7 @@ git clone https://github.com/wrogrammer/clean-ansible
 pip3 install tox
 ```
 and:
+
 ```tox -e dvars```
 to find redundant defaults variables
 
